@@ -48,10 +48,6 @@ Contributions to this project are welcome! If you'd like to improve the project 
 
 Please make sure to follow good coding practices and provide a clear description of your changes in the pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Author
 
 This ATM Services Project was developed by [Neeraj Prajapati].
